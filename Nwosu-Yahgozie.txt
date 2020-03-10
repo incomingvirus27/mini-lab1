@@ -1,0 +1,15 @@
+1. Question: What is the difference between an inline element and a block element?
+Answer: An inline element only occupies the space around, while the block elements creates a block around itself
+
+2. Question: What happens when an element is positioned absolutely?
+Answer: when an element is positioned absolutely it means that the element is removed from the normal document.
+
+3. Question: How do I make an element take up only the amount of space it needs but also have the ability to give it a width?
+Answer:It is simply by placing it in an html tag like the <div> or the <section> tags
+
+4. Question: Name 4 elements that are display block by default, 5 elements that are displayed inline by default and 1 element that is display inline-block by default
+Answer: 4 Elements that are display block by default are <p>, <ul>, <br>, <div>, <section>,
+        5 Elements that are displayed inline by default are <i>, <a>, <img>, <span>, <hr>,
+        1 Element that is displayed inline by default is <input>.
+5. Question: In your own words, explain the box model. What is the fix for the box model?
+Answer: Fix for the box model simple means the use of box-sizing with the border-box in the declaration block of a css file.
